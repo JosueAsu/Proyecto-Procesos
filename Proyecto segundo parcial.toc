@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Marco teórico}{3}%
+\contentsline {section}{\numberline {2}Norma ISO 9001:2015 aplicada en una empresa de desarrollo de software}{3}%
+\contentsline {subsection}{\numberline {2.1}Caso de estudio}{3}%
+\contentsline {subsection}{\numberline {2.2}Planificación}{4}%
+\contentsline {subsection}{\numberline {2.3}Entradas para el diseño y desarrollo}{6}%
+\contentsline {subsection}{\numberline {2.4}Controles del diseño y desarrollo}{7}%
+\contentsline {subsection}{\numberline {2.5}Salidas del diseño y desarrollo}{7}%
+\contentsline {subsection}{\numberline {2.6}Cambios al diseño y desarrollo}{8}%
+\contentsline {section}{\numberline {3}Conclusión}{9}%
